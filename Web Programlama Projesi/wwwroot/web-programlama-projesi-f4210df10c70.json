@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "web-programlama-projesi",
+  "private_key_id": "f4210df10c708aa3e501d9911336ae37adf3199a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDL7Ow1E+5tdKGm\ncxX4CnhNwl2AxcvSgx9Kn6GKZn9V45TT5Vyo3qNcUVkXH5sKtxb9lIFb8PHj0w65\nNDukhV4+2ATluORg/xFgvDQ3ZUg9Hta3KrzhuY3OmHl79NjxDYsXi4ighK0qglg7\nLCrJFpbTmiG3lU0pmY0e+upXzJcwRd9RRL3lfXlzdVlCV00ZEf/M912ZC7TgUkc8\nRfxz44BljgTM7+Rsq2NtP0E8tMZzpP0verXAaWmIF2UZlBKPz35MoauG91GdaH1n\nuyQfegBqblWAijKjH6LjvWzC0LQRNGPeqzh2WBhpABQkz6Pl9Sa92jQZIyUwv0C7\nqVOHo72vAgMBAAECggEAOdfe2mFocJC0J5Aea6ignkHjHts8KN67mgG0oxrWxKiU\ntxQol9frE40ZjbcP1dbARTaCCO/L1RkxZHQ99LlF1eKVZQnwcdj39237C7mFZ5zf\nP752LDrjT/YtA22cuadjTE7udsWbjuLBHyu0iSyIpMXkCXxmkkW1Y1O99CCaw/yT\nsg0qDh/dYmDjGhcZ6fEixZlafpO2lpuNmflWQ7D/9N8gujRGcHchL72gFOlu8ePH\nAdmnj0IWHkHrXYKxeICz5K/8k20VHJ8H7BJQwUbuqJxU8R6qwNm5vK3h7IgwpHDQ\nzokh7t0tQ08b1oXXlp6FXSS6NjHVlZVrcma4ZMt3bQKBgQD5TnVUrO7x8pRDeHNZ\n6vt/iIDl7uMtW6mGaelXzRKqsI1ybxVyvtahe+PbkV1klcxcfGO/Zo/bbkVBsMP6\nPZaLsyGEdG2/j2qXzAMtjHlcztBs9vroxCEcsnFhLbKAxYKGlkNgmMkhKpRosCNM\nfRnymQvidwCFGU0ToaXA1pyRxQKBgQDRZozW6VwOxJFibP5wVQ2IdUQnLEJOitHi\njAwCaZzjQnrKN9S4W0IHs+KJWZoiIsZjoR20Xg4PPhnA+wqtkicmWLHlw30Jx177\nvnzWv2e7Ng3jZPtcI2qz6E0ToEVl0gpa1IWOF9Yz2eR5x/rNKTDALlWYc/Bnn7SK\nC8dzYehM4wKBgCe9sQhpdMGOyMGknsazpZmj2eBNX1topDJwCalcYGBjOnkGaiXb\nc/1T8XObzYZuNqB7l674G3CAOHwLQIJQdQIZ8PrbUG9b3kMKW2tUXDhGI4VrLX4T\nXa/kZhx2m2DZmz/3DhCE6nLmBbhWc5oKyysX6IQWMjgFW3sIppKB4319AoGAaO9l\nIMWstlHXMWXBU/WrZHivgJnzWHzElSztT8AxOMm10uSLmx9QRZ/lpELctMKMfJze\nz+ZaUVUjfsvPHBAjwlmsPKHsZRweAzYARXWBvBVofE28kP3GmQWOqokkfdP2EHJz\nwzM6yp0km8qVan57ybLufgmLrcIgrRUeDDpCOVUCgYEAyh+JE/J1gt8D6HhDHveg\nMfImizHpTcertveFTD5xlpNZrOKsQbCLpxnpfmD7lV1sW7Yz3i0KD0Epz6qbCO5m\nExGGji/CQ1pbBv7Nm5iCf4JI7NL+3YBN1nTR29Z2qnWTkIs8ryA9Ds7kWa/bldRI\nJ6A7GuJW6y7pzjipKwtFYIs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "servishesabi@web-programlama-projesi.iam.gserviceaccount.com",
+  "client_id": "116099397467253135992",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/servishesabi%40web-programlama-projesi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
